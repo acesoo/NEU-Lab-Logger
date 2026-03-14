@@ -138,8 +138,6 @@ NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=your_sender_id
 NEXT_PUBLIC_FIREBASE_APP_ID=your_app_id
 ```
 
-> ⚠️ **Never commit `.env.local` to version control.** It is listed in `.gitignore`.
-
 Get these values from your [Firebase Console](https://console.firebase.google.com) → Project Settings → Your Apps.
 
 ---
